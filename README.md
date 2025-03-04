@@ -19,7 +19,7 @@
 <p align="left" dir="auto">
   I'm Dimitri, a software developer from Russia.<br><br>
   - 🔭 Currently working with Java and the Spring Framework.<br>
-  - 📚 Learning: Java, Spring, AWS, Docker, and more.<br>
+  - 📚 My skills: Java, Spring, AWS, Docker, and more.<br>
  ⚡ Hobbies: Reading books, playing basketball, soccer.
 </p>
 <h3 dir="auto"></h3>
